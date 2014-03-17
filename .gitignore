@@ -32,5 +32,8 @@ tmp
 # Ignore Custom setup
 .env
 
+# Jekyll
+_site
+
 # Project Specific
 
