@@ -3,3 +3,4 @@ lsi: false
 pygments: true
 source: site
 highlighter: pygments
+markdown: redcarpet
